@@ -8,6 +8,8 @@ Neos/Resonite disables the joystick if you have a tooltip equipped which makes u
 (pressing down on that same joystick.)
 This mod removes that restriction, allowing tools to be equipped while keeping full movement intact.
 
+This version of the mod also has an option to enable compatibility with the InspectorScroll mod. When this is enabled and you point at UIX while holding a tool that stick's locomotion input will be disabled to allow for easier scrolling of the inspector.
+
 ## Relavent Issue
 Neos-Metaverse/NeosPublic#1969 seems related.
 
