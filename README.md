@@ -1,8 +1,7 @@
 # NoTankControls
 
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) and
-[NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for Resonite and [Neos VR](https://neos.com/)
-that allows you to move with your joysticks while holding any tool.
+[NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Resonite](https://resonite.com/) that allows you to move with your joysticks while holding any tool.
 
 Neos/Resonite disables the joystick if you have a tooltip equipped which makes use of the "Secondary" action
 (pressing down on that same joystick.)
@@ -15,5 +14,5 @@ Neos-Metaverse/NeosPublic#1969 seems related.
 
 ## Installation
 1. Install the appropriate modloader.
-2. Place [NoTankControls.dll](https://github.com/furrz/NoTankControls/releases/latest/download/NoTankControls.dll) into your `nml_mods` or `rml_mods` folder. Make sure to use an older release if on neos, the latest DLL download is for Resonite! You can create it if it's missing, or if you launch the game once with NeosModLoader installed it will create the folder for you.
+2. Place [NoTankControls.dll](https://github.com/Nytra/NoTankControls/releases/download/v1.1.0/NoTankControls.dll) into your `rml_mods` folder. You can create it if it's missing, or if you launch the game once with ResoniteModLoader installed it will create the folder for you.
 3. Start the game. If you want to verify that the mod is working you can check your game logs, or try moving around with the DevToolTip equipped!
