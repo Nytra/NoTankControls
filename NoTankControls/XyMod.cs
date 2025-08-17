@@ -1,6 +1,7 @@
 ﻿using FrooxEngine;
 using HarmonyLib;
 using ResoniteModLoader;
+using Renderite.Shared;
 
 namespace NoTankControls
 {
@@ -8,7 +9,7 @@ namespace NoTankControls
 	{
 		public override string Name => "NoTankControls";
 		public override string Author => "zyntaks / Nytra";
-		public override string Version => "1.1.0";
+		public override string Version => "1.1.1";
 		public override string Link => "https://github.com/Nytra/NoTankControls";
 
 		public static ModConfiguration Config;
